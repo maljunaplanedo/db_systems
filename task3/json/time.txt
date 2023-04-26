@@ -1,0 +1,8 @@
+Execution time, save as string: 0.05s
+Execution time, read string: 0.10s
+Execution time, save as hset: 42.67s
+Execution time, read hset: 4.06s
+Execution time, save as zset: 44.13s
+Execution time, read zset: 2.61s
+Execution time, save as list: 48.47s
+Execution time, read list: 3.51s
