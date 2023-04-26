@@ -1,0 +1,2 @@
+No index: 157.208175s
+With index: 147.987407s

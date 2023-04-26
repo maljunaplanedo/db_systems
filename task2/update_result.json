@@ -1,0 +1,22 @@
+[
+  {
+    _id: ObjectId("642cb507eff1ffeda42410ce"),
+    showNumber: 42,
+    airDate: '2023-01-01',
+    round: 'Jeopardy!',
+    category: 'HISTORY',
+    value: '$2000000',
+    question: 'Who is the founder of Moscow?',
+    answer: 'Yuri I Vladimirovich a.k.a. Long Arm'
+  },
+  {
+    _id: ObjectId("642cb507eff1ffeda42410cf"),
+    showNumber: 282,
+    airDate: '2027-01-19',
+    round: 'Double Jeopardy!',
+    category: 'BE FRUITFUL & MULTIPLY',
+    value: '$2000000',
+    question: '3123412 x 848293',
+    answer: '2649568535716'
+  }
+]
